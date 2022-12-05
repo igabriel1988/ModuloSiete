@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_main_grabar.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_main_grabar.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_main_video.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_main_video.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/list_item.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/list_item.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_collapsing_toolbar_layout.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_collapsing_toolbar_layout.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/header_main.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/header_main.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_nested_scroll_view.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_nested_scroll_view.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_constraint.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_constraint.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/activity_main_musica.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/activity_main_musica.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/card_view_holder.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/card_view_holder.xml"
+    },
+    {
+        "merged": "dgtic.unam.modulosieta.app-mergeDebugResources-25:/layout/bar_main.xml",
+        "source": "dgtic.unam.modulosieta.app-main-28:/layout/bar_main.xml"
+    }
+]
